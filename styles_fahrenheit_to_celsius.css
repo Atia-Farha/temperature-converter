@@ -26,8 +26,11 @@ header {
 
 h1 {
     font-family: 'Prosto One', cursive;
-    color: #00e1ff;
     margin: 0.5em 0 0.8em 0.5em;
+}
+
+.title a {
+    color: #00e1ff;
 }
 
 nav {
