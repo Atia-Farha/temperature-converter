@@ -1,3 +1,2 @@
-# Temperature-Converter
-Temperature Converter Website <br>
+# Temperature-Converter Website
 Visit website from here: https://atia-farha.github.io/Temperature-Converter/
